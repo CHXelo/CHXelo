@@ -11,8 +11,6 @@
 
 - 💬 Ask me about: **Python, C++, Lua**
 
-- 📫 How to reach me: **xeloservice@web.de**
-
 - ⚡ Fun fact: **I am a perfectionist**
 
 <p align="center">
